@@ -289,6 +289,3 @@ String s  = Gen.str(10);            // random lowercase string of length 10
 
 ---
 
-## 📂 Repository
-
-**[vishal-being-infinity/CP-CODE-TEMPLATE](https://github.com/vishal-being-infinity/CP-CODE-TEMPLATE)**
